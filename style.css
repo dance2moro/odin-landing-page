@@ -9,8 +9,9 @@
 
 } 
 
-.section2{
+#section2{
     background-color: #F9FAF8;
+    padding:0 200px 50px 200px;
 }
 #header1 {
     justify-content: space-between;
@@ -70,3 +71,6 @@ button{
     justify-content: space-between;
 }
 
+h1{
+    text-align: center;
+}
